@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Gustavo Zanette",
+    "label": "Estudante",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "gmzo.gustavo@gmail.com",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Estudante de Pedagogia da Universidade de Brasília",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
